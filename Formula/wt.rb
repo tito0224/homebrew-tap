@@ -8,22 +8,22 @@ class Wt < Formula
   on_macos do
     on_arm do
       url "https://github.com/tito0224/wt/releases/download/v1.0.0-beta.5/wt_v1.0.0-beta.5_darwin_arm64.tar.gz"
-      sha256 "613e425a68441b6bcba5800137d6982615ad8d1b6cb119cf98f1eed027489138"
+      sha256 "ea32b1f3a0909e9718ccd28705332c86e75a59d92766e1cc87ba4cb4c1477677"
     end
     on_intel do
       url "https://github.com/tito0224/wt/releases/download/v1.0.0-beta.5/wt_v1.0.0-beta.5_darwin_amd64.tar.gz"
-      sha256 "a680255da867237dd2517dcd021096389ef92d8515615d836b74376ffbc14127"
+      sha256 "6f47a6123b65f5380a838273069905f19cf851cb30269f7f11c0ce10dc1aae3f"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/tito0224/wt/releases/download/v1.0.0-beta.5/wt_v1.0.0-beta.5_linux_arm64.tar.gz"
-      sha256 "de8be9501b1cafe71fc5a459b52c481c01126c32b494417d07b9eaa4f4d6b7f6"
+      sha256 "23773e6145657589f4131d2fe53e713ba106453cdad51ec131177e0a21e8827d"
     end
     on_intel do
       url "https://github.com/tito0224/wt/releases/download/v1.0.0-beta.5/wt_v1.0.0-beta.5_linux_amd64.tar.gz"
-      sha256 "8f2656d1a672c82b1b11b4a06eb6d14567296f6a8ad58bfe5604092f41f788b2"
+      sha256 "1b45263fef2fc199a28004aef6d00012dfb20156526fd7aebde341919f9014f3"
     end
   end
 
